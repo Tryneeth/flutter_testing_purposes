@@ -1,0 +1,55 @@
+name: testing_purposes
+description: An App Created with Flutter 2.0
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  bloc: ^7.0.0-nullsafety.3
+  flutter_bloc: ^7.0.0-nullsafety.3
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  bloc_test: ^8.0.0-nullsafety.1
+  mocktail: ^0.0.1-dev.12
+  integration_test: ^1.0.2+2
+
+flutter:
+  uses-material-design: true
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
